@@ -1,3 +1,6 @@
+# Simple marks calculation program, Created by Gelos Enterprises, edits and fixes done by Rayyan Hodges. Copyright 2022: Rayyan Hodges, Gelos Enterprises, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 active = False
 while active == False:
 
